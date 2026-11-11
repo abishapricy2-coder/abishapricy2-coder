@@ -1,4 +1,4 @@
-<h1 align="center">Abisha Prashi</h1>
+<h1 align="center"><b>Abisha Prashi</b></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=2540E8&center=true&vCenter=true&width=600&lines=Computer+Science+student+at+KIT%2C+Coimbatore;Building+full-stack+and+machine+learning+projects;Turning+sensor+data+into+predictions" alt="Computer Science student at KIT, Coimbatore. Building full-stack and machine learning projects. Turning sensor data into predictions.">
@@ -19,22 +19,45 @@ I'm a third-year Computer Science student who likes building projects that read 
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,react,nodejs,express,fastapi,mysql,mongodb,tensorflow,git,github&perline=7" alt="C, C++, Java, Python, JavaScript, React, Node.js, Express, FastAPI, MySQL, MongoDB, TensorFlow, Git, GitHub">
 
-**Also:** Pandas, scikit-learn, HTML, CSS, SQL, Data Structures and Algorithms, OOP, DBMS
+**Also:** Pandas, scikit-learn, PostgreSQL, Spring Boot, HTML, CSS, SQL, Data Structures and Algorithms, OOP, DBMS
 
 ## Featured Projects
 
-### Smart Campus Energy Prediction
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Smart Campus Energy Prediction</h3>
+      <sub>IoT, deep learning and full-stack</sub>
+      <p>Predicts the next hour of campus energy use with a deep neural network. Readings come from a built-in simulator or from ESP32 and Wokwi devices, and appear on a React dashboard with charts, building comparison and high-use alerts.</p>
+      <p><img src="https://skillicons.dev/icons?i=react,vite,fastapi,mysql,tensorflow" alt="React, Vite, FastAPI, MySQL, TensorFlow"></p>
+      <a href="https://github.com/abishapricy2-coder/smart-campus-energy-prediction">View repository</a>
+    </td>
+    <td valign="top" width="50%">
+      <h3>PlacementPilot</h3>
+      <sub>Full-stack web application</sub>
+      <p>A placement preparation and job application tracking platform built with React, Java Spring Boot and PostgreSQL.</p>
+      <p><img src="https://skillicons.dev/icons?i=react,spring,postgres,java" alt="React, Spring Boot, PostgreSQL, Java"></p>
+      <a href="https://github.com/abishapricy2-coder/PlacementPilot">View repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Traffic-AI</h3>
+      <sub>Machine learning</sub>
+      <p>A regression model that predicts vehicle count from the hour of day, day of week, weather index and holiday indicator. The training pipeline validates data, scales features, saves the model and can generate synthetic datasets for testing.</p>
+      <p><img src="https://skillicons.dev/icons?i=py,pandas" alt="Python, Pandas"></p>
+      <a href="https://github.com/abishapricy2-coder/Traffic-AI">View repository</a>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Article Publishing Platform</h3>
+      <sub>MERN-stack web application</sub>
+      <p>A full-stack application for creating and managing articles, with authentication and role-based access.</p>
+      <p><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MongoDB, Express, React, Node.js"></p>
+      <a href="https://github.com/abishapricy2-coder/Article-publishing-platform">View repository</a>
+    </td>
+  </tr>
+</table>
 
-A campus energy monitoring system that predicts the next hour of consumption with a deep neural network. Readings come from a built-in simulator or from ESP32 and Wokwi devices, and appear on a React dashboard with charts, building comparison and high-use alerts.
+## Certifications
 
-<img src="https://skillicons.dev/icons?i=react,vite,fastapi,mysql,tensorflow" alt="React, Vite, FastAPI, MySQL, TensorFlow">
-
-[View repository](https://github.com/abishapricy2-coder/smart-campus-energy-prediction)
-
-### Traffic-AI
-
-A regression model that predicts vehicle count from the hour of day, day of week, weather index and holiday indicator. The training pipeline validates data, scales features, saves the model and can generate synthetic datasets for testing.
-
-<img src="https://skillicons.dev/icons?i=py,pandas" alt="Python, Pandas">
-
-[View repository](https://github.com/abishapricy2-coder/Traffic-AI)
+Cisco: C++ Essentials 1 and 2, Python Essentials 1 and 2. NPTEL: Problem Solving using Java, Database Management Systems. IBM: Artificial Intelligence Foundation.
