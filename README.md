@@ -58,6 +58,3 @@ I'm a third-year Computer Science student who likes building projects that read 
   </tr>
 </table>
 
-## Certifications
-
-Cisco: C++ Essentials 1 and 2, Python Essentials 1 and 2. NPTEL: Problem Solving using Java, Database Management Systems. IBM: Artificial Intelligence Foundation.
